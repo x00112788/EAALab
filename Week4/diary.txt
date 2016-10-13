@@ -1,0 +1,2 @@
+date +%D-%r hello
+date +%D-%r hello
